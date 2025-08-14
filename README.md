@@ -4,3 +4,4 @@ pandas
 datatime
 streamlit
 plotly
+plotly.express
