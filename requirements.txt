@@ -1,1 +1,6 @@
 requirements.txt
+io 
+pandas 
+datatime 
+streamlit 
+plotly
